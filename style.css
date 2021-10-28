@@ -386,3 +386,146 @@ header .header-content a {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
+.section5 {
+    width: 100%;
+    height: 750px;
+    position: relative;
+    overflow: hidden;
+    
+}
+.section5 .content {
+    width: 1000px;
+    margin: 15px auto;
+    text-align: center;
+}
+.section5 .content .title {
+    margin-top: 120px;
+}
+.section5 .content .title h3{
+    color: #515151;
+    font-family: "Montserrat",sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.1;
+    margin-bottom: 10px;
+
+}
+.section5 .content .title h1{
+    color: #333;
+    font-family: "Suranna",serif;
+    font-size: 29;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 4px;
+    margin: 20px 0  30px 0 ;
+
+}
+.section5 .content .boxs .box {
+    float: left;
+    width: 300px;
+    height: 360px;
+    margin:  10px;
+    border: 0.1px solid #e6e6e6;
+    text-align: left;
+}
+.section5 .content .boxs .box .content-box {
+   padding: 20px;
+} 
+.section5 .content .boxs .box .content-box p {
+    font-family: "Suranna",serif;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 400;
+    letter-spacing: 5px;
+    margin-bottom: 15px;
+}
+.section5 .content .boxs .box .content-box h3 {
+    font-family: "Montserrat",sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    color: #092c2d;
+    line-height: 22px;
+    cursor: pointer;
+    
+}
+.section5 .content .boxs .box .content-box h3:hover {
+    color: #c9bc87;
+    
+} 
+.section5 .content .boxs .box .image img  {
+    height: 200px;
+    width: 100%;
+} 
+
+.footer {
+    width: 100%;
+    overflow: hidden;
+    height: 250px;
+    padding-top: 1px;
+}
+.footer .parte1 {
+     width: 100%;
+     height: 200px;
+     background-color: #f7f7f7;
+     padding-top: 1px;
+}
+.footer .parte1 .content {
+    width: 1000px;
+    margin: 30px auto;
+}
+.footer .parte1 .content .importlink {
+    float: left;
+}
+.footer .parte1 .content .importlink h1 {
+   margin-bottom: 20px;
+   font-family: "Suranna",serif;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #333;
+
+}
+.footer .parte1 .content .importlink a {
+    display: block;
+    margin-bottom: 10px;
+    font-family: "Montserrat",sans-serif;
+     font-size: 16px;
+     line-height: 1.1;
+     font-weight: 200;
+    
+     color: #333;
+ 
+ }
+.footer .parte1 .content .copyright {
+    float: right;
+    width: 450px;
+}
+.footer .parte1 .content .copyright h1 {
+    margin-bottom: 30px;
+}
+.footer .parte1 .content .copyright .copyright-text {
+    font-family: "Montserrat",sans-serif;
+     font-size: 16px;
+     line-height: 1.1;
+     font-weight: 200;
+    
+     color: #333;
+}
+.footer .parte2 {
+    height: 50px;
+    width: 100%;
+}
+.footer .parte2 .social-media {
+    width: 380px;
+    margin-top: 15px;
+    margin:15px auto;
+}
+.footer .parte2 .social-media a {
+    padding: 7px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 50%;
+    margin: 0 5px;
+}
